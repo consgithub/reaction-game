@@ -30,19 +30,6 @@ for i in range(200):
     )
     floor_segments.append(segment)
 
-# Tunnel
-tunnel_segments = []
-for i in range(200):  
-    ring = Entity(
-        model='cylinder',
-        color=color.green,
-        scale=(10, 1, 10),
-        position=(0, 0, i * 5),
-        rotation=(90, 0, 0),
-        double_sided=True
-    )
-    tunnel_segments.append(ring)
-
 # Skybox
 Sky(color=color.gray)
 
