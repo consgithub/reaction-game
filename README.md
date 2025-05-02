@@ -1,6 +1,6 @@
 # Reaction Time + Memory Challenge
 
-3D reaction time + memory game built with Ursina. Press space when prompted + press the correct number when prompted.
+3D reaction time + memory game built with Ursina. Press space + press the correct number when prompted.
 
 ## Requirements
 
